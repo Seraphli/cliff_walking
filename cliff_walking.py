@@ -8,7 +8,7 @@ from concurrent.futures import ProcessPoolExecutor
 from tabulate import tabulate
 
 EPISODES = 500
-RUNS = 10000
+RUNS = 5000
 
 WORLD_HEIGHT = 4
 WORLD_WIDTH = 12
